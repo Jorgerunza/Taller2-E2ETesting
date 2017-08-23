@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="archivo "
+    errors="0" failures="1" hostname="" id="" package="archivo " skipped="0"
+    tests="1" time="19.39" timestamp="Wed, 23 Aug 2017 04:16:11 GMT">
+  
+    <testcase name="Los estudiantes busqueda y navegar a pagina de profesor" classname="archivo " time="19.39" assertions="1">  <failure message="Timed out while waiting for element &lt;.botonIngresar&gt; to be visible for 4000 milliseconds.">    at Object.Los estudiantes busqueda y navegar a pagina de profesor (/home/testing/Desktop/Taller 2/Nightwatch.js/tests/archivo .js:41:8)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
