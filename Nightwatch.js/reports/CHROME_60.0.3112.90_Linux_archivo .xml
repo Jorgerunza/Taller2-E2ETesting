@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites errors="0"
-            failures="0"
+            failures="1"
             tests="1">
 
   <testsuite name="archivo "
-    errors="0" failures="0" hostname="" id="" package="archivo " skipped="0"
-    tests="1" time="13.34" timestamp="Wed, 23 Aug 2017 05:05:38 GMT">
+    errors="0" failures="1" hostname="" id="" package="archivo " skipped="0"
+    tests="1" time="14.27" timestamp="Mon, 28 Aug 2017 04:22:40 GMT">
   
-    <testcase name="Los estudiantes filtrar por materia" classname="archivo " time="13.34" assertions="6">
+    <testcase name="Los estudiantes filtrar por materia" classname="archivo " time="14.27" assertions="5">
 
     
 
@@ -15,9 +15,8 @@
 
     
 
-    
-
-    
+      <failure message="Timed out while waiting for element &lt;.botonAgregar&gt; to be visible for 4000 milliseconds.">    at Object.Los estudiantes filtrar por materia (/media/testing/Files/Taller2-E2ETesting/Nightwatch.js/tests/archivo .js:65:8)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)</failure>
 
     
     </testcase>
